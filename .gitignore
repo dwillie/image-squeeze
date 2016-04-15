@@ -27,6 +27,9 @@ build/Release
 node_modules
 jspm_packages
 
+# Cache Directory
+files
+
 # Optional npm cache directory
 .npm
 
